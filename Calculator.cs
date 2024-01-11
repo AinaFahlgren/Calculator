@@ -1,4 +1,7 @@
-﻿public class Calculator
+﻿//jag lägger till lite information här!
+
+
+public class Calculator
 {
     public int Add(int a, int b)
     {
